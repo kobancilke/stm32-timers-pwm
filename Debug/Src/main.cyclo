@@ -1,0 +1,5 @@
+../Src/main.c:27:5:main	2
+../Src/main.c:68:6:SystemClock_Config	4
+../Src/main.c:94:6:GPIO_Config	1
+../Src/main.c:103:6:TIM4_PWM_Config	1
+../Src/main.c:122:6:delay	2
